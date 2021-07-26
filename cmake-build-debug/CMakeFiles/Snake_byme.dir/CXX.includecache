@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLion Project/Snake_byme/Point.h
+
+D:/CLion Project/Snake_byme/StartWindow.cpp
+Point.h
+D:/CLion Project/Snake_byme/Point.h
+StartWindow.h
+D:/CLion Project/Snake_byme/StartWindow.h
+windows.h
+-
+
+D:/CLion Project/Snake_byme/StartWindow.h
+vector
+-
+Point.h
+D:/CLion Project/Snake_byme/Point.h
+
